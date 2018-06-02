@@ -10,4 +10,4 @@
 	- You can get the data from Google AdWords or Google Analytics
 ### * What are the input and output of this Python code?	
 	- Input: a csv file with performance data of search queries/terms
-	- Output: a csv file with individual search words, as well as a summary of performance for each search word
+	- Output: a csv file with individual search words, as well as a summary of performance(cost, clicks, impressions, conversions, click through rate, conversion rate, cost per lead) for each search word
